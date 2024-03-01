@@ -61,8 +61,8 @@ export default function ContactForm() {
           </li>
           <li>
             <span>Phone: </span>
-            <a href="tel:7005320508" className="hover:text-primary">
-            7005320508
+            <a href="tel:+918099182490" className="hover:text-primary">
+            +918099182490
             </a>
           </li>
           <li>

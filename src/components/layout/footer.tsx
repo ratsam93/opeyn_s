@@ -98,10 +98,10 @@ const Footer = () => {
                 <li>
                   <span>Phone: </span>
                   <a
-                    href="tel:7005320508"
+                    href="tel:+918099182490"
                     className="hover:text-primary"
                   >
-                    7005320508
+                    +918099182490
                   </a>
                 </li>
                 <li>

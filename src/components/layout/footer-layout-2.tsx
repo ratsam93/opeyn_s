@@ -33,8 +33,8 @@ const FooterLayout2 = () => {
               <div className="flex space-x-4">
                 <Email width="32" height="32" className="h-8 w-8" />
                 <div>
-                  <a href="tel:7005320508" className="block text-md">
-                  7005320508
+                  <a href="tel:+918099182490" className="block text-md">
+                  +918099182490
                   </a>
                   <a
                     href="mailto:connect@opeyn.com"

@@ -5,7 +5,7 @@ import SectionPageTitle from "@/components/sections/section-page-title";
 import SectionChecklist from "@/components/sections/section-checklist";
 import SectionCTALayout4 from "@/components/sections/section-cta-layout-4";
 // import SectionStats from "@/components/sections/section-stats";
-// import SectionTeam from "@/components/sections/section-team";
+import SectionTeam from "@/components/sections/section-team";
 // import { getBaseUrl } from '@/getBaseUrl.js';
 
 // export const metadata: Metadata = {
@@ -29,7 +29,7 @@ export default function PageAbout() {
         </SectionPageTitle>
         <SectionChecklist />
         {/* <SectionStats /> */}
-        {/* <SectionTeam /> */}
+        <SectionTeam />
         <SectionCTALayout4 />
       </main>
       <Footer />

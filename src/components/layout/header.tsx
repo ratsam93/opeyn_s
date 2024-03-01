@@ -57,7 +57,7 @@ const Header = () => {
                 className="inline-block rounded-md bg-gradient-to-l from-primary to-tertiary px-4 py-2.5 text-center font-bold text-white"
               >
                 <span className="block text-xxs">Call us for Free</span>
-                <span className="text-md">7005320508</span>
+                <span className="text-md">+918099182490</span>
               </a>
             </div>
           </div>
