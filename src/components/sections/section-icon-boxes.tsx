@@ -5,21 +5,21 @@ import IconBox from "@/components/icon-box";
 export const iconBoxes = [
   {
     icon: "/icons/medical-research-6506_05214fe4-cb2e-4171-ac03-72168bf2981b.svg",
-    title: "IT Services",
+    title: "Digital Marketing Solutions",
     description:
-      "IT services encompass a broad range of offerings, including hardware and software support, network management, cybersecurity, and cloud computing solutions, tailored to meet businesses' technology needs.",
+      "Our digital marketing solutions encompass a wide array of strategies and tactics aimed at boosting your online presence, increasing brand visibility, and driving meaningful engagement with your target audience.",
   },
   {
     icon: "/icons/edit-document-4191_913956ad-aac3-4d29-b4ef-061756334d24.svg",
-    title: "IT Consultancy",
+    title: "Lead Scoring",
     description:
-      "This involves providing expert advice and guidance on technology-related matters, assisting organizations in optimizing their infrastructure, implementing digital transformation initiatives, and addressing specific challenges.",
+      "Utilizing sophisticated algorithms and data analytics, our lead scoring system helps you prioritize and identify high-quality leads, enabling your sales team to focus their efforts on prospects most likely to convert.",
   },
   {
     icon: "/icons/currency-2634_d41cd9f8-1db2-4236-b082-94568e599e40.svg",
     title: "Advertising",
     description:
-      "The strategic promotion of products, services, or brands through various channels such as digital media, and social platforms. The aim is to reach target audiences, drive engagement, and ultimately influence purchasing decisions.",
+      "Our advertisement services are tailored to help you reach your desired audience, increase brand awareness, and drive conversions through strategic and creative advertising initiatives.",
   },
 ];
 

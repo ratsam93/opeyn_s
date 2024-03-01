@@ -2,7 +2,7 @@ import Header from "@/components/layout/header";
 import Footer from "@/components/layout/footer";
 import type { Metadata } from "next";
 import SectionPageTitle from "@/components/sections/section-page-title";
-import SectionGoogleMap from "@/components/sections/section-google-map";
+// import SectionGoogleMap from "@/components/sections/section-google-map";
 import SectionContactForm from "@/components/sections/section-contact-form";
 // import { getBaseUrl } from '@/getBaseUrl.js';
 
@@ -21,7 +21,7 @@ export default function PageContact() {
           Contact
         </SectionPageTitle>
         <SectionContactForm />
-        <SectionGoogleMap />
+        {/* <SectionGoogleMap /> */}
       </main>
       <Footer />
     </>

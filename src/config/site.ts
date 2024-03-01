@@ -48,10 +48,10 @@ export const mainNav = [
     title: "Services",
     href: "/services",
   },
-  {
-    title: "Projects",
-    href: "/projects"
-  },
+  // {
+  //   title: "Projects",
+  //   href: "/projects"
+  // },
   {
     title: "About",
     href: "/about",
@@ -217,7 +217,7 @@ export const footerNav = [
         external: false,
       },
       {
-        title: "SMM",
+        title: "Lead Scoring",
         href: "#",
         external: false,
       },
@@ -226,11 +226,11 @@ export const footerNav = [
         href: "#",
         external: false,
       },
-      {
-        title: "Google Ads",
-        href: "#",
-        external: false,
-      },
+      // {
+      //   title: "Google Ads",
+      //   href: "#",
+      //   external: false,
+      // },
     ],
   },
 ] satisfies FooterItem[];

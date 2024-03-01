@@ -56,7 +56,7 @@ export default function ContactForm() {
         <ul className="mb-6 space-y-1 text-center text-sm">
           <li>
             <address className="-mt-px leading-6">
-             Guwahati, Assam
+            Bangalore, India.
             </address>
           </li>
           <li>
@@ -67,8 +67,8 @@ export default function ContactForm() {
           </li>
           <li>
             <span>Email: </span>
-            <a href="samratdhar.mech@gmail.com" className="hover:text-primary">
-            samratdhar.mech@gmail.com
+            <a href="mailto:connect@opeyn.com" className="hover:text-primary">
+            connect@opeyn.com
             </a>
           </li>
         </ul>

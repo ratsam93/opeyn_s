@@ -5,28 +5,28 @@ import SectionTitle from "./section-title";
 
 export const iconBoxes = [
   {
-    icon: "/icons/deadline-5926_5778aee2-b372-4b21-94a1-c9fc06ac464c.svg",
-    title: "AI",
+    icon: "/icons/SALES.png",
+    title: "Sales Intelligence",
     description:
-      "Harnessing artificial intelligence for enhanced decision-making and automation.",
+      "Providing actionable insights to optimize sales strategies and drive revenue growth effectively.",
   },
   {
-    icon: "/icons/medal-3141_6860a6ec-597a-49e1-a5d2-dd4b070acef3.svg",
-    title: "Marketing",
+    icon: "/icons/SEO.png",
+    title: "SEO",
     description:
-      "Crafting strategic campaigns to amplify brand presence and engage target audiences effectively.",
+      "Strategies to improve website visibility and organic traffic through optimized content and technical enhancements.",
   },
   {
-    icon: "/icons/medical-research-6506_05214fe4-cb2e-4171-ac03-72168bf2981b.svg",
+    icon: "/icons/growth.png",
     title: "Growth Hacking",
     description:
       "Deploying innovative tactics to accelerate user acquisition and maximize business growth.",
   },
   {
-    icon: "/icons/customer-support-4912_a5517329-a472-47b5-8155-d507da181405.svg",
-    title: "Software Development",
+    icon: "/icons/SOP.png",
+    title: "SOPs and Templates",
     description:
-      "Building robust and scalable solutions tailored to meet diverse industry needs.",
+      "Offering standardized workflows and customizable templates for achieving operational excellence.",
   },
   {
     icon: "/icons/pay-2643_cf4ecaa0-bcfb-4c2b-91e1-7353cb0dccdd.svg",
@@ -62,7 +62,7 @@ const SectionIconBoxesLayout3 = ({ noTitle }: { noTitle?: boolean }) => {
       <div className="container">
         {!noTitle && (
           <SectionTitle
-            subtitle="We offer a variety of services here to get you started and successfully suite every need using Margin."
+            subtitle="We offer a variety of services here to get you started and successfully suite every need using Opeyn."
             sectionClasses="mx-auto max-w-xl text-center mb-12"
             titleClasses="mb-3 text-center"
             subtitleClasses="text-md font-medium"

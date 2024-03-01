@@ -12,10 +12,10 @@ const SectionPromo = () => {
             Our Priorities Equal Your Needs
           </h2>
           <p className="mb-10 text-lg">
-            We are a  team highly focussed individuals into Scalable marketing, Blockchain Development, AI software development and Lead Generation. We leverage cutting edge AI tech for our daily task and make mximum of our products in house. For sales and prospecting we make sure companies need a minimum criterion and few validations to make sure the product we are working with provides value to the customers
+          We provide cutting-edge digital marketing solutions tailored to your needs, along with advanced lead scoring techniques and comprehensive sales intelligence. Explore our range of Chrome extensions, SOPs, and templates designed to streamline your processes. Elevate your online presence with targeted advertisements and expert SEO strategies.
           </p>
           <Button>
-            Get Started
+            <a href="/contact">Get Started</a>
             <ChevronRightIcon width={20} height={20} className="-mr-2 ml-4" />
           </Button>
         </div>

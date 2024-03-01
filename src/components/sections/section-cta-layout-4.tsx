@@ -11,7 +11,7 @@ const SectionCTALayout4 = () => {
               Get, keep and grow more customers. We’re here to help.
             </h2>
             <Button size="lg">
-              <a href="#">Let’s Work Together</a>
+              <a href="/contact">Let’s Work Together</a>
               <ChevronRightIcon width={20} height={20} className="-mr-2 ml-4" />
             </Button>
           </div>

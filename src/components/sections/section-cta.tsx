@@ -17,7 +17,7 @@ const SectionCTA = () => {
           <div className="mx-auto max-w-6xl">
             <div className="rounded-md bg-muted px-6 py-24 text-center shadow-lg dark:bg-slate-800 dark:shadow-slate-850/20">
               <h2 className="mb-8">Take your business to the next level</h2>
-              <Button size="lg">Let’s Work Together</Button>
+              <Button size="lg"><a href="/contact">Let’s Work Together</a></Button>
             </div>
           </div>
         </div>

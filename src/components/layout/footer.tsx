@@ -92,7 +92,7 @@ const Footer = () => {
               <ul className="space-y-2 text-sm">
                 <li>
                   <address className="-mt-px leading-6">
-                  Guwahati, Assam
+                  Bangalore, India.
                   </address>
                 </li>
                 <li>
@@ -106,8 +106,8 @@ const Footer = () => {
                 </li>
                 <li>
                   <span>Email: </span>
-                  <a href="samratdhar.mech@gmail.com" className="hover:text-primary">
-                    samratdhar.mech@gmail.com
+                  <a href="mailto:connect@opeyn.com" className="hover:text-primary">
+                  connect@opeyn.com
                   </a>
                 </li>
               </ul>

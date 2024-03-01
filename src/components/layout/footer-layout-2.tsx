@@ -37,10 +37,10 @@ const FooterLayout2 = () => {
                   7005320508
                   </a>
                   <a
-                    href="mailto:samratdhar.mech@gmail.com"
+                    href="mailto:connect@opeyn.com"
                     className="hover:text-primary"
                   >
-                    samratdhar.mech@gmail.com
+                    connect@opeyn.com
                   </a>
                 </div>
               </div>
@@ -49,7 +49,7 @@ const FooterLayout2 = () => {
               <div className="flex space-x-4">
                 <Address width="32" height="32" className="h-8 w-8" />
                 <address className="-mt-px leading-6">
-                Guwahati, Assam
+                Bangalore, India.
                 </address>
               </div>
             </div>
