@@ -53,7 +53,7 @@ const Header = () => {
 
             <div className="hidden lg:ml-auto lg:inline-block">
               <a
-                href="tel:7005320508"
+                href="tel:+918099182490"
                 className="inline-block rounded-md bg-gradient-to-l from-primary to-tertiary px-4 py-2.5 text-center font-bold text-white"
               >
                 <span className="block text-xxs">Call us for Free</span>
@@ -68,3 +68,4 @@ const Header = () => {
 };
 
 export default Header;
+
