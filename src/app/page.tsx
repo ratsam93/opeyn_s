@@ -7,6 +7,14 @@ import SectionIconBoxes from "@/components/sections/section-icon-boxes";
 import SectionPartners from "@/components/sections/section-partners";
 import SectionPromo from "@/components/sections/section-promo";
 // import SectionTestimonialsSlider from "@/components/sections/section-testimonials-slider";
+import type { Metadata } from "next";
+
+
+export const metadata: Metadata = {
+  metadataBase: new URL(process.env.NEXT_PUBLIC_APP_URL!),
+  title: "OPEYN",
+  description: "Home",
+};
 
 export default function Home() {
   return (
