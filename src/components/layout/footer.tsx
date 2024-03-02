@@ -7,6 +7,8 @@ import {
   faFacebook,
   faXTwitter,
   faYoutube,
+  faInstagram,
+  faLinkedin,
 } from "@fortawesome/free-brands-svg-icons";
 
 import {
@@ -40,6 +42,18 @@ const Footer = () => {
                   href="#"
                   className="mb-2 flex h-10 w-10 items-center justify-center rounded bg-black text-white transition-colors hover:bg-foreground hover:text-white"
                 >
+                  <FontAwesomeIcon icon={faLinkedin} width={15} />
+                </a>
+                <a
+                  href="https://www.instagram.com/opeyn_marketing/"
+                  className="mb-2 flex h-10 w-10 items-center justify-center rounded bg-black text-white transition-colors hover:bg-foreground hover:text-white"
+                >
+                  <FontAwesomeIcon icon={faInstagram} width={15} />
+                </a>
+                <a
+                  href="#"
+                  className="mb-2 flex h-10 w-10 items-center justify-center rounded bg-black text-white transition-colors hover:bg-foreground hover:text-white"
+                >
                   <FontAwesomeIcon icon={faXTwitter} width={15} />
                 </a>
                 <a
@@ -61,9 +75,8 @@ const Footer = () => {
               footerNav.map((item, index) => (
                 <div
                   key={item.title}
-                  className={`${
-                    index === 0 ? "xl:col-start-7" : ""
-                  } col-span-3 xl:col-span-2`}
+                  className={`${index === 0 ? "xl:col-start-7" : ""
+                    } col-span-3 xl:col-span-2`}
                 >
                   <h2 className="mb-4 text-sm">{item.title}</h2>
                   <NavigationMenu orientation="vertical">
@@ -92,7 +105,7 @@ const Footer = () => {
               <ul className="space-y-2 text-sm">
                 <li>
                   <address className="-mt-px leading-6">
-                  Bangalore, India.
+                    Bangalore, India.
                   </address>
                 </li>
                 <li>
@@ -107,7 +120,7 @@ const Footer = () => {
                 <li>
                   <span>Email: </span>
                   <a href="mailto:connect@opeyn.com" className="hover:text-primary">
-                  connect@opeyn.com
+                    connect@opeyn.com
                   </a>
                 </li>
               </ul>
