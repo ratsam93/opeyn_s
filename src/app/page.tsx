@@ -43,7 +43,6 @@
 
 
 
-
 import Header from "@/components/layout/header";
 import Footer from "@/components/layout/footer";
 import SectionCTA from "@/components/sections/section-cta";
@@ -60,6 +59,10 @@ const Home: NextPage = () => {
       <Head>
         <title>OPEYN Marketing</title>
         <meta name="description" content="Enhance your online presence and decrease lead costs with OPEYN MARKETING's tailored digital marketing solutions." />
+        <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+        <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png" />
+        <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
+        <link rel="manifest" href="/site.webmanifest" />
       </Head>
       <Header />
       <main className="relative">
@@ -75,4 +78,3 @@ const Home: NextPage = () => {
 }
 
 export default Home;
-

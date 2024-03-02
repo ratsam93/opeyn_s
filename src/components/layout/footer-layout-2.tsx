@@ -99,7 +99,7 @@ const FooterLayout2 = () => {
         <div className="container text-center">
           <span className="text-xs">
             © {new Date().getFullYear()} Made by{" "}
-            <a href="https://deothemes.com" className="hover:text-primary">
+            <a href="https://opeyn.com/" className="hover:text-primary">
               OPEYN
             </a>
           </span>
