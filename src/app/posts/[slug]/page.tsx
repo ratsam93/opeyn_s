@@ -14,7 +14,7 @@ import {
 } from "@fortawesome/free-brands-svg-icons";
 import { faEnvelope } from "@fortawesome/free-solid-svg-icons";
 import SocialIcon from "@/components/social-icon";
-import { getBaseUrl } from '@/getBaseUrl.js';
+
 
 type Params = {
   params: {
