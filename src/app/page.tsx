@@ -21,8 +21,8 @@ export default function Home() {
   return (
     <>
       <Head>
-        <title>OPEYN</title>
-        <meta name="description" content="We provide cutting-edge digital marketing solutions tailored to your needs, along with advanced lead scoring techniques and comprehensive sales intelligence. Explore our range of Chrome extensions, SOPs, and templates designed to streamline your processes. Elevate your online presence with targeted advertisements and expert SEO strategies." />
+        <title>OPEYN Marketing</title>
+        <meta name="description" content="We provide cutting-edge digital marketing solutions, lead scoring techniques and comprehensive sales intelligence. Explore our range of SOPs and templates designed to streamline your processes." />
       </Head>
       <Header />
       <main className="relative">
