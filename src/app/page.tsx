@@ -59,7 +59,7 @@ const Home: NextPage = () => {
     <>
       <Head>
         <title>OPEYN Marketing</title>
-        <meta name="description" content="We provide cutting-edge digital marketing solutions, lead scoring techniques and comprehensive sales intelligence. Explore our range of SOPs and templates designed to streamline your processes." />
+        <meta name="description" content="Enhance your online presence and decrease lead costs with OPEYN MARKETING's tailored digital marketing solutions." />
       </Head>
       <Header />
       <main className="relative">
