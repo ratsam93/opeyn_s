@@ -3,7 +3,7 @@ import Footer from "@/components/layout/footer";
 import type { Metadata } from "next";
 import SectionPageTitle from "@/components/sections/section-page-title";
 import PostList from "@/components/posts/post-list";
-// import { getBaseUrl } from '@/getBaseUrl.js';
+
 
 // export const metadata: Metadata = {
 //   metadataBase: new URL(getBaseUrl()!),

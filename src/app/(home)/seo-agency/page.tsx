@@ -9,7 +9,7 @@ import SectionProjectsSlider from "@/components/sections/section-projects-slider
 import SectionCTALayout2 from "@/components/sections/section-cta-layout-2";
 import SectionTestimonials from "@/components/sections/section-testimonials";
 import SectionResults from "@/components/sections/section-results";
-// import { getBaseUrl } from '@/getBaseUrl.js';
+
 
 // export const metadata: Metadata = {
 //   metadataBase: new URL(getBaseUrl()!),
