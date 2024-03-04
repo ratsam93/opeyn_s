@@ -4,22 +4,21 @@ export const WP_REST_BASE_URL =
   "https://wordpress-597675-3975829.cloudwaysapps.com/wp-json/wp/v2";
 
 export const siteConfig = {
-  name: "OPEYN",
+  name: "OPEYN Marketing",
   description:
-    "Margin is the Next.js 14 web application powered by headless WordPress.",
+    "Enhance your online presence and decrease lead costs with OPEYN MARKETING's tailored digital marketing solutions.",
   keywords: [
-    "Next.js 14",
-    "React",
-    "Headless WordPress",
-    "Tailwind CSS",
-    "Server Components",
-    "Server Actions",
+    "OPEYN",
+    "Opeyn Marketing",
+    "Digital Marketing Solutions",
+    "SOPs",
+    "Marketing Solutions",
     "Marketing",
     "SEO",
     "Digital Agency",
   ],
-  url: "https://margin-nextjs.vercel.app/",
-  ogImage: "https://margin-nextjs.vercel.app/og-image.jpg",
+  url: "https://www.opeyn.com/",
+  ogImage: "https://www.opeyn.com/favicon.ico",
 };
 
 export const mainNav = [
